@@ -1,0 +1,40 @@
+1. Membership in function
+Ex- If we want to check the roll no. 55 is in class or not
+then membership function is used
+example
+'p' in 'Python'
+
+2. If Statements in Python
+Example:
+if the_world_is_flat: 
+    print("Don't fall off")
+
+3. What is Odd loop
+ Odd loop is do you want to continue
+in real example we can call customer care
+
+///
+when no. of condition is not known then it is called odd loop
+
+((LOOp
+1.Initialization
+2.Condition
+3.Counter
+))
+
+Functions
+1.def fn_name(p1,p2):
+      value=do-something() 
+      return value
+Rules
+1.Return is optional
+2.if either return or its value are omitted, 
+implicity returns none
+
+
+Syntax:
+def is_prime(n):
+for i in range(2,n)
+    if n % i ==0:
+         return False
+    return true:
